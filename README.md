@@ -1,8 +1,8 @@
-## Hi there 👋 i'm Monica Mukanda
-
-- 🔭 I’m currently working on enhancing my skills in data analysis with Python
-- 🌱 I’m currently learning Information Science and software development
-- 🚀interested in digital literacy and open source projects
-- 📫 How to reach me: [mukandamonica1@gmailcom]
+ Hi there 👋 i'm Monica Mukanda 
+- 🌱 I’m currently a student in the University of Nairobi learning Information Science
+- 🚀interested in digital analysis and data analysis especially using Python
+- 🔭 I’m currently learning Python and software engineering
+- ✈️involved in the PLP software development project
+- 📫 How to reach me: mukandamonica1@gmailcom
   
 -->
